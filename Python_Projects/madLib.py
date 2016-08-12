@@ -1,0 +1,16 @@
+
+noun1= input("type in a noun:")
+state=input("type in a state:")
+verb1=input("type in a verb: ")
+noun2=input("type in a noun: ")
+properName1=input("type in a proper name: ")
+verb2=input("type in a verb: ")
+noun3=input("type in a noun: ")
+verb3=input("type in a verb: ")
+noun4=input("type in a noun: ")
+noun5=input("type in a noun: ")
+partOfBody1=input("type in a body part: ")
+
+print("A "+noun1+ " in "+ state+ " was arrested this morning after he "+ verb1 + " a ")
+print(noun2+" in front of "+ noun3+". "+ properName1+", had a history of "+ verb2+" ,but ")
+print("no one-not even his "+ noun4+"-ever imagined he'd " + verb3+" with a "+ noun5+" stuck in his "+partOfBody1)
